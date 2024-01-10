@@ -1,0 +1,14 @@
+.date {
+  background-color: rgb(139, 114, 31);
+  padding: 1rem;
+  border: 1px solid white;
+  border-radius: 20px;
+}
+
+.month,
+.year,
+.day {
+  color: white;
+  font-size: 1.1rem;
+  font-weight: bold;
+}
